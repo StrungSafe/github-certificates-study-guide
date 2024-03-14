@@ -2,6 +2,10 @@
 
 [Official Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf)
 
+## Domain 1: Introduction to Git and GitHub
+
+### Git and GitHub Basics
+
 1. Describe version control
     1.  A set of tools to track changes to files and by whom; allows multiple people to make changes independently without immediately affecting others
 1. Define distributed version control
@@ -22,3 +26,36 @@
     1. A named reference to another Git repo
 1. Describe the GitHub flow
     1. Lightweight workflow that allows for safe experimentation
+
+### GitHub Entities
+
+1. Describe the different GitHub accounts (personal, organization, enterprise)
+     1. Every user has a personal account, an organization is a group of users, and enterprise is a group of organizations
+1. Describe GitHub's products for personal accounts (free, pro)
+     1. Free personal accounts allow unlimited public/private repositories w/ more limitations on private repositories
+     1. Pro personal accounts...
+1. Describe GitHub's products for organization accounts (free for organizations, teams)
+     1. 
+1. Describe the different deployment options for GitHub Enterprise
+     1. 
+1. Describe the features in the user profile (metadata, achievements, profile readme, repositories, pinned repositories, starts, etc.)
+     1. 
+
+### GitHub Markdown
+
+1. Identify the text formatting toolbar on issue and pull request comments
+1. Describe Markdown
+1. Identify the basic formatting syntax (headings, links, task lists, comments, etc.)
+1. Explain where to find and use slash commands
+
+### GitHub Desktop
+
+1. Explain the difference between GitHub Desktop and github.com
+1. Describe the available features with GitHub Desktop
+
+### GitHub Mobile
+
+1. Describe the available features with GitHub Mobile
+1. Explain how to manage notifications through the GitHub Mobile app
+
+## Domain 2: Working with GitHub Repositories
