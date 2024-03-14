@@ -26,14 +26,18 @@
 ## GitHub Entities
 
 1. Describe the different GitHub accounts (personal, organization, enterprise)
-     1. Every user has a personal account, an organization is a group of users, and enterprise is a group of organizations
+     1. Every user has a personal account, the personal account identifies a user.
+     2. An organization is a group of users, they don't have a login, permissions are applied in a tiered approach
+     3. An enterprise is a group of organizations, this allows admins to centrally manage policies and billing; also allows for inner sourcing between organizations
 1. Describe GitHub's products for personal accounts (free, pro)
-     1. Free personal accounts allow unlimited public/private repositories w/ more limitations on private repositories
-     1. Pro personal accounts...
+     1. Anyone can signup for a free personal accounts, this account type has basic features; a personal account includes unlimited public and private repositories and unlimited collaborators.
+     1. Pro personal accounts are like free accounts but w/ upgraded features. Features included advanced tooling and insights within their repos, GitHub support, 3k GitHub Action minutes per month and more.
 1. Describe GitHub's products for organization accounts (free for organizations, teams)
-     1. 
+     1. Free for organizations can work w/ unlimited collaborators on unlimited public repos w/ a full feature set or unlimited private repos w/ a limited feature set; additionally includes team access controls for managing groups
+     2. GitHub Team is a version of GitHub Pro for organizations. Provides an increased amount of GitHub Actions minutes and extra gitHub Packages storage
 1. Describe the different deployment options for GitHub Enterprise
-     1. 
+     1. GitHub Enterprise Server (GHES) is a self-hosted solution that gives orgs full control over their infrastructure
+     2. GitHub Enterprise Cloud includes an increase in GitHub Actions minutes and GitHub Packages storage
 1. Describe the features in the user profile (metadata, achievements, profile readme, repositories, pinned repositories, starts, etc.)
      1. 
 
