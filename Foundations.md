@@ -4,4 +4,14 @@
 
 ## [Domain 1: Introduction to Git and GitHub](Foundations_D1.md)
 
-## Domain 2: Working with GitHub Repositories
+## [Domain 2: Working with GitHub Repositories](Foundations_D2.md)
+
+## [Domain 3: Collaboration Features](Foundations_D3.md)
+
+## [Domain 4: Modern Development](Foundations_D4.md)
+
+## [Domain 5: Project Management](Foundations_D5.md)
+
+## [Domain 6: Privacy, Security, and Administration](Foundations_D6.md)
+
+## [Domain 7: Benefits of the GitHub Community](Foundations_D7.md)
