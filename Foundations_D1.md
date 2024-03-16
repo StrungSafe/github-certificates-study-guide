@@ -38,8 +38,13 @@
 1. Describe the different deployment options for GitHub Enterprise
     - GitHub Enterprise Server (GHES) is a self-hosted solution that gives orgs full control over their infrastructure
     - GitHub Enterprise Cloud includes an increase in GitHub Actions minutes and GitHub Packages storage
-1. Describe the features in the user profile (metadata, achievements, profile readme, repositories, pinned repositories, starts, etc.)
-    - **TODO**
+1. Describe the features in the user profile (metadata, achievements, profile readme, repositories, pinned repositories, stars, etc.)
+    - metadata is additional data about yourself
+    - acheivements can be used to show off all the cool things you've achieved
+    - a profile readme is a markup file that let's you customize a section on your profile
+    - repositories shows off the repositories you own
+    - pinned repositories shows off repos you've pinned on your profile page
+    - stars are the repos you want to pay special attention to
 
 ## GitHub Markdown
 
@@ -65,9 +70,26 @@
 ## GitHub Desktop
 
 1. Explain the difference between GitHub Desktop and github.com
+    - GitHub Desktop is an open-source, stand-alone software application
+    - github.com is a website that is accessed via a browser
 1. Describe the available features with GitHub Desktop
+    - Add and clone repositories
+    - Add changes to your commit interactively
+    - Quickly add co-authors to your commit
+    - Check out branches with pull requests and view CI statuses
+    - Compare changed images
 
 ## GitHub Mobile
 
 1. Describe the available features with GitHub Mobile
+    - Manage, triage, and clear notifications from github.com
+    - Read, review, and collaborate on issues and pull requests
+    - Edit files in pull requests
+    - Search for, browse, and interact with users, repositories, and organizations
+    - Receive a push notification when someone mentions your username
+    - Schedule push notifications for specific custom hours
+    - Secure your GitHub.com account with two-factor authentication
+    - Verify your sign in attempts on unrecognized devices
 1. Explain how to manage notifications through the GitHub Mobile app
+    - In the lower menu selector, click notifications to view your notifications
+    - To customize notifications click on your Profile, then the gear in the upper right, then "Configure Notifications"
