@@ -16,6 +16,7 @@
 ## Pull Requests
 
 1. Describe a pull request
+    - A pull request is the way code is moved from one branch or fork into another
 1. Explain how to create a new pull request
 1. Describe the `base` and `compare` branches in a pull request
 1. Explain the relationship of commits on a pull request
